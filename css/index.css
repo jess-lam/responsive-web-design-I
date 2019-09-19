@@ -300,6 +300,11 @@ footer {
         
     }
 
+    .nav-bar {
+        border: 1px none white;
+       
+    }
+
     section nav a {
         border-bottom: 1px solid gray;
         width: 80%;
